@@ -1,5 +1,7 @@
 import turtle
 t = turtle.Turtle()
+turtle.bgcolor("Black")
+t.shape("circle")
 t.speed(10)
 t.pencolor("silver")
 t.penup()
